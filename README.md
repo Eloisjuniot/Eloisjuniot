@@ -1,16 +1,25 @@
-## Hi there 👋
+### E ai, me chamo Eloi Junior 👋  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eloi-soares-89965214a) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([www.linkedin.com/in/eloi-soares-89965214a](https://github.com/Eloisjuniot)) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/eloi-soares-89965214a)
 
-<!--
-**Eloisjuniot/Eloisjuniot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Eloi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Eloisjuniot&show_icons=true&theme=highcontrast)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que utilizo no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt= "SQL SERVER"
+     src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/ >
+     <img align="center" alt= "SQL SERVER"
+     src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/ >
+     <img align="center" alt= "SQL SERVER"
+     src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/ >
+     <img align="center" alt= "SQL SERVER"
+     src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/ >
+</div><br/>
+
+#### Iniciante na area de programação, ja possuo uma vasta experiencia com Implantação de Sistema ERPs.
+
+## Para saber mais sobre minha carreira acesse o link a baixo!
+- [Perfil do LinkeDin](www.linkedin.com/in/eloi-soares-89965214a)
