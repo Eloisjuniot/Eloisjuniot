@@ -5,9 +5,9 @@
 
 ![Eloi GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Eloisjuniot&show_icons=true&theme=highcontrast)
 
-
 ## Tecnologias que utilizo no meu dia
 
+## Tecnologias que utilizo.
 <div style="display: inline_block"><br/>
     <img align="center" alt= "SQL SERVER"
      src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/ >
@@ -17,6 +17,10 @@
      src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/ >
      <img align="center" alt= "SQL SERVER"
      src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/ >
+     <img align="center" alt= "SQL SERVER"
+     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/ >
+     <img align="center" alt= "SQL SERVER"
+     src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/ >   
 </div><br/>
 
 #### Iniciante na area de programação, ja possuo uma vasta experiencia com Implantação de Sistema ERPs.
